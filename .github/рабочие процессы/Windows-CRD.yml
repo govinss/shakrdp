@@ -5,11 +5,11 @@ name: Windows-CRD
 on: 
   workflow_dispatch:
     inputs:
-      authcode:
+      authcode:190487
         description: 'Enter CRD code'
         required: true
       pincode:
-        description: 'Six digit Pin'
+        description: '190487'
         required: true
   
 jobs:
